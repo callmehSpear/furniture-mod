@@ -1,2 +1,1 @@
-# furniture-mod
-Minecraft Mod
+# The callmehSpear Furniture Mod
